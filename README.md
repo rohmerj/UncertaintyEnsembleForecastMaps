@@ -7,4 +7,4 @@ Data and R code for performing HSIC-based GSA for coastal flood maps using an ex
   - the 1050 flood maps (in 4 different files to save space) 
 [3] Analyse the HSIC first-order sensitivity measures
 
-**Necessary R package: [sensitivity](https://cran.r-project.org/web/packages/sensitivity/index.html).
+**Necessary R package** [sensitivity](https://cran.r-project.org/web/packages/sensitivity/index.html).
